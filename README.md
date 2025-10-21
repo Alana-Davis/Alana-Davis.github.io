@@ -1,2 +1,2 @@
 ![Rat](rat.jpg)
-![Seal](seal.jpg)
+![Seal](Seal.jpg)
